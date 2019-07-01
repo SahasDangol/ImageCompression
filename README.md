@@ -2,4 +2,9 @@
 
 # Image Compression
 
-Nepali Date Converter converts Bikram sambat Nepali date to English date and vice versa. It is a date converter between Bikram sambat B.S and Gregorian calendar (Anno Domini)(A.D). Now Bikram Sambat Nepali Date Converter can convert dates from 2000B.S - 2090B.S. Nepali Date Converter is functioning almost around 2 years, in this time several fixes and updates are made to make results accurate and error free. Adhik maas or Purushottam maas with DST if applicable are determined and pre calculated here so you will get accurate date conversion. Useful for converting nepali date of birth to english, historical nepali dates, filling online application form, etc and vice versa.
+Image compression is an application of data compression that encodes the original image with few bits. The objective of image compression is to reduce the redundancy of the image and to store or transmit data in an efficient form.
+
+At its core, image compression is when you remove or group together certain parts of an image file in order to reduce its size. Why do that? Here are a few reasons.
+For website optimization. Sites with uncompressed images can take longer to load, and can cause your visitors to bounce because of this.
+For sending and uploading images. Uploading an uncompressed image can take a while, and some email servers have a file size limit.
+For reducing the storage impact on your hard drive.
